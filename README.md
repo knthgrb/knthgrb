@@ -7,7 +7,7 @@
 
 - 👨‍💻 Building web, mobile, and desktop applications.
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 Languages: 
 ![JavaScript(ES6)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -47,7 +47,7 @@ Developer Tools:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 🌐 Connect with me:
+## 🌐 Connect with Me 👇
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:djyknn@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/knthh.grb)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/knthgrb/)
