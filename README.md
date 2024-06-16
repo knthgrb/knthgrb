@@ -3,7 +3,7 @@
 ## 💁‍♂️ About Me
 - 🎓 I am a graduate of Bachelor of Science in Computer Engineering as a **MAGNA CUM LAUDE** at Cebu Technological University - Danao Campus.
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Into
 
 - 👨‍💻 Building web, mobile, and desktop applications.
 
