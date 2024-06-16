@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am <strong>Kenneth Garbo</strong> 👋</h1>
 
 ## 💁‍♂️ About Me
-- 🎓 I am a graduate of Bachelor of Science in Computer Engineering as a **MAGNA CUM LAUDE** at Cebu Technological University - Danao Campus.
+- 🎓 I am a graduate of Bachelor of Science in Computer Engineering as a **MAGNA CUM LAUDE** from Cebu Technological University - Danao Campus.
 
 ## 🚀 What I'm Into
 
