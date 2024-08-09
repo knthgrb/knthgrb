@@ -1,5 +1,3 @@
- <h1 align="center">Hi, I am <strong>Kenneth Garbo!</strong> 👋</h1>
-
 ## 💁‍♂️ About Me
 - Graduated **BS in Computer Engineering** as a **Magna Cum Laude** from **Cebu Technological University - Danao Campus**.
 
