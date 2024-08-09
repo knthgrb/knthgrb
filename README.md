@@ -3,10 +3,6 @@
 ## 💁‍♂️ About Me
 - 🎓 Graduated BS in Computer Engineering as a **Magna Cum Laude** from Cebu Technological University - Danao Campus.
 
-## 🚀 What I'm Into
-
-- 👨‍💻 Building web, mobile, and desktop applications.
-
 ## 💻 Tech Stack
 Languages: 
 ![JavaScript(ES6)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
