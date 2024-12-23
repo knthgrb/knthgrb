@@ -56,5 +56,3 @@ Developer Tools:
 ![knthgrb's Stats](https://github-readme-stats.vercel.app/api?username=knthgrb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![knthgrb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=knthgrb&theme=vue-dark&hide_border=true)
 ![knthgrb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knthgrb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
