@@ -56,6 +56,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/knthh.grb)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/knthgrb/)
 
-![knthgrb's Stats](https://github-readme-stats.vercel.app/api?username=knthgrb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![knthgrb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=knthgrb&theme=vue-dark&hide_border=true)
+## 📊 GitHub Stats:
 ![knthgrb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knthgrb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
