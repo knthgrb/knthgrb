@@ -1,7 +1,7 @@
-## 💁‍♂️ About Me
+# About Me
 - Graduated **BS in Computer Engineering** as a **Magna Cum Laude** from **Cebu Technological University - Danao Campus**.
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## 🔎 Languages:
 <p align="left">
