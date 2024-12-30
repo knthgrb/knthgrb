@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
+## 🗄️ Backend-as-a-Service:
+<p align="left">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/supabase-%2300C3C3.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
 ## 🔧 Developer Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
