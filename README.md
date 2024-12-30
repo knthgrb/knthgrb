@@ -59,10 +59,10 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 🌐 Connect with Me 👇
+## 📊 GitHub Stats:
+![knthgrb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knthgrb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+# Connect with Me 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-garbo-756193314)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/knthh.grb)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/knthgrb/)
-
-## 📊 GitHub Stats:
-![knthgrb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knthgrb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
